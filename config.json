@@ -1,0 +1,34 @@
+{
+  "name": "M. Hasan",
+  "title": "Security Researcher & AI Systems Builder",
+  "tags": ["Security", "AI", "Computer Vision", "Founder"],
+
+  "about": "Security researcher focused on AI systems, computer vision, and cybersecurity.",
+
+  "skills": {
+    "Python": 90,
+    "C": 75,
+    "JavaScript": 65,
+    "Linux": 85,
+    "OpenCV": 88
+  },
+
+  "projects": [
+    {
+      "name": "PQC Security System",
+      "desc": "Gesture-based authentication + cryptography research"
+    },
+    {
+      "name": "Gesture Control System",
+      "desc": "Real-time hand tracking UI control"
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Founder",
+      "org": "Bytebox Global",
+      "year": "2024 - Present"
+    }
+  ]
+}
